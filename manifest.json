@@ -1,0 +1,7 @@
+{
+  "name": "批量导出预设",
+  "id": "mx-jsdesign-batch-export",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
